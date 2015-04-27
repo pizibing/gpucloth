@@ -1,0 +1,1 @@
+This library simulates the physics of cloth based on a range of attritbes and is implemented in CUDA C. It is designed to integrate with OpenGL rendering.
